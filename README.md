@@ -46,4 +46,3 @@ If you’re also learning Python — this project is a great starting point for 
 ### 1️⃣ Clone or download this repository
 ```bash
 git clone https://github.com/asiripr/pptx-to-pdf-bulk-converter.git
-cd pptx-pdf-convert-tool
